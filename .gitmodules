@@ -1,0 +1,12 @@
+[submodule "vendor/PlistCpp"]
+	path = vendor/PlistCpp
+	url = https://github.com/animetrics/PlistCpp.git
+[submodule "vendor/file_typing"]
+	path = vendor/file_typing
+	url = https://github.com/ThibsG/file_typing.git
+[submodule "vendor/QHexView"]
+	path = vendor/QHexView
+	url = https://github.com/Dax89/QHexView.git
+[submodule "vendor/sqliteQt"]
+	path = vendor/sqliteQt
+	url = https://github.com/viniavila/sqliteQt.git
